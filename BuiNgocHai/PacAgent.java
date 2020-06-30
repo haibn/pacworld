@@ -1,6 +1,4 @@
  /* Name: Bui Ngoc Hai
- * Class: K17 CS
- * Assignment 2: Packages World
  */
  /* Basic Strategy of Agent:
   * - see the percept (get information from visibleAgents, visiblePackage, messages....)
